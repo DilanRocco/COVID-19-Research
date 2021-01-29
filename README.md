@@ -3,7 +3,7 @@
 ## Masks   
    Are masks actually effective?    
      
-   Study from March 2nd suggesting not to wear a mask because they are low on supply. Not clear if masks are effective mentioned: 
+   Study from March 2nd suggesting not to wear a mask because they are low on supply. No mention on effectivity of masks.
    > "Face masks should not be worn by healthy
 individuals to protect themselves from acquiring respiratory
 infection because there is no evidence to suggest that face masks
