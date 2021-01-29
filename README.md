@@ -1,6 +1,4 @@
-:Hello This is Covid-19 Reseach
-#I want to become the veryy best
-dd a line to ReadME
+**COVID-19 Research/Understanding Virus and Cures
 
 **Vaccines: **
   -RNA VS DNA
