@@ -1,7 +1,7 @@
 # COVID-19 Research/Understanding Virus and Cures
 
 ## Masks   
-   Are masks actually effective?  
+   Are masks actually effective?    
    Study from March 2nd suggesting not to wear a mask because they are low on supply. Not clear if masks are effective mentioned: 
    > "Face masks should not be worn by healthy
 individuals to protect themselves from acquiring respiratory
