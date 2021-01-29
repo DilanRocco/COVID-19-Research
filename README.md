@@ -1,6 +1,6 @@
 # COVID-19 Research/Understanding Virus and Cures
 
-**Vaccines: **
+## Vaccines: 
   -RNA VS DNA
 
 DNA: Deoxyribonucleic Acid that has a base pair-double stranded.
