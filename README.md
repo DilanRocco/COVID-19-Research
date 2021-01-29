@@ -1,4 +1,4 @@
-**COVID-19 Research/Understanding Virus and Cures
+# COVID-19 Research/Understanding Virus and Cures
 
 **Vaccines: **
   -RNA VS DNA
