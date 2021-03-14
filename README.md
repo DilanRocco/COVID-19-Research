@@ -18,3 +18,9 @@ Timeline of Masks -https://journals.plos.org/plosmedicine/article?id=10.1371/jou
 DNA: Deoxyribonucleic Acid that has a base pair-double stranded.  
 RNA: Ribonucleic Acid: Signle stranded sugar. 
 Source: https://www.thoughtco.com/dna-versus-rna-608191
+
+"vim" is used to open a file
+## Github steps to download code
+Update master. to go to master  use  "git checkout master"
+then get new data - "git pull"
+https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
